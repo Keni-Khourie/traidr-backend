@@ -9,7 +9,7 @@ lerna-debug.log*
 .env
 .env.development
 .env.local
-package-lock.json
+#package-lock.json
 **yarn
 **.yarn
 dist
